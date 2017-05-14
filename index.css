@@ -41,10 +41,10 @@ html {
        display: inline-block;
        float: left;
   }
-  .redBackground {
+  .redbackground {
     background-color: #C91804;
   }
-  .greenBackground {
+  .greenbackground {
 background-color: #0C6326;
 }
 
